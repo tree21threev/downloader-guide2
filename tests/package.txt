@@ -9,3 +9,4 @@ Record hackathon ideas
 Note encryption methods
 Note deprecation warnings
 Prepare closure report
+Ensure proper cancellation of debounced input requests
